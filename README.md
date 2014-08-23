@@ -12,7 +12,7 @@ It is based on [docker-passenger](https://github.com/phusion/passenger-docker) f
 Install
 -------
 
-    docker pull alban/nsi-kibana
+    docker pull albanm/nsi-kibana
 
 Usage
 -----
